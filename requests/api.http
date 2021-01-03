@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://www.amazon.in/?ext_vrnc=hi&tag=googhydrabk-21&ascsubtag=_k_Cj0KCQiA0MD_BRCTARIsADXoopYIujZ88LaF3st9iWK8BmzA2JM_dZfe-24KoAX2acvAM4MdQ8zd6swaAsiFEALw_wcB_k_&ext_vrnc=hi&gclid=Cj0KCQiA0MD_BRCTARIsADXoopYIujZ88LaF3st9iWK8BmzA2JM_dZfe-24KoAX2acvAM4MdQ8zd6swaAsiFEALw_wcB"
+}
