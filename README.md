@@ -1,4 +1,4 @@
-# URL_Shortner_api
+# URL_Shortner_API
 
  => API to shorten URLs.
  
